@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "comment": "This is test api",
+      "publisher": "miketan"
+    }
+  ]
+}
